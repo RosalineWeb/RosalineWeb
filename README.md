@@ -9,6 +9,7 @@ I'm a web designer and developer who loves building beautiful and functional web
 - 👯 I’m open to collaborating on creative web projects and learning new things together.  
 - 💬 Ask me about web design, WordPress, Webflow, IAM, or cloud tech.  
 - 🌐 Check out my website: [rosaline-web-site.webflow.io](https://rosaline-web-site.webflow.io/)  
-- 📫 Reach me anytime on [LinkedIn](https:www.linkedin.com/in/rosaline-rastegar) or by email.
+- 📫 Reach me anytime on [LinkedIn](https://www.linkedin.com/in/rosaline-rastegar/) or by email.
+
 
 Thanks for stopping by — let's build something awesome! 🚀
