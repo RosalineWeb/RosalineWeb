@@ -44,6 +44,6 @@ A snapshot of my work, design style, and the path I’m taking as I grow in tech
 - Instagram: [rosaline_rastegar](https://instagram.com/rosaline_rastegar)  
 - Email: [Rosalinerastegar@gmail.com](mailto:rosalinerastegar@gmail.com) 📧
 
----
+------------------------------------------------------------------------------------------
 
 Thanks for stopping by — let's build something awesome together! 💪🚀
