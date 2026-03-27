@@ -54,8 +54,6 @@ LinkedIn • Instagram • Email (same as before)
 
 ---
 
-## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/RosalineWeb/RosalineWeb/output/github-contribution-grid-snake.svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a6c1ee,100:fbc2eb&height=120&section=footer"/>
