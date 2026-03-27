@@ -1,3 +1,7 @@
+github_user_name: RosalineWeb
+outputs: dist/github-contribution-grid-snake.svg
+
+
 name: Generate Snake
 
 on:
