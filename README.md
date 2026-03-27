@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:a6c1ee&height=200&section=header&text=Rosaline%20Rastegar&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 ## Hi there 👋 I'm Rosaline
 
 Welcome to my little GitHub space!  
