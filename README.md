@@ -47,6 +47,6 @@ A snapshot of my work, design style, and the path I’m taking as I grow in tech
 ------------------------------------------------------------------------------------------
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/farhad-taheri/farhad-taheri/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RosalineWeb/RosalineWeb/blob/output/github-contribution-grid-snake.svg)
 
 Thanks for stopping by — let's build something awesome together! 💪🚀
