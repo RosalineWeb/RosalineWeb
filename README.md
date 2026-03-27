@@ -45,5 +45,8 @@ A snapshot of my work, design style, and the path I’m taking as I grow in tech
 - Email: [Rosalinerastegar@gmail.com](mailto:rosalinerastegar@gmail.com) 📧
 
 ------------------------------------------------------------------------------------------
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/farhad-taheri/farhad-taheri/blob/output/github-contribution-grid-snake.svg)
 
 Thanks for stopping by — let's build something awesome together! 💪🚀
