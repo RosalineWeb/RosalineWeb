@@ -56,6 +56,7 @@ LinkedIn • Instagram • Email (same as before)
 
 ## 🐍 Contribution Snake
 ![Snake animation](https://github.com/rosalineweb/rosalineweb/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/RosalineWeb/RosalineWeb/main/dist/snake.svg)
 
 
 ![Snake animation](https://github.com/farhad-taheri/farhad-taheri/blob/output/github-contribution-grid-snake.svg)
