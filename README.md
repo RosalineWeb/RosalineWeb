@@ -53,7 +53,6 @@ https://rosaline-web-site.webflow.io/
 LinkedIn • Instagram • Email (same as before)
 
 ---
-![Snake animation](https://github.com/farhad-taheri/farhad-taheri/blob/output/github-contribution-grid-snake.svg)
 ![Snake animation](https://github.com/RosalineWeb/RosalineWeb/blob/output/github-contribution-grid-snake.svg)
 
 
