@@ -10,13 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
-
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: farhad-taheri
-          outputs: |
-  dist/snake.svg?color_snake=ff69b4&color_dots=#ffc0cb,#ff69b4,#ff1493,#c71585
+    - uses: Platane/snk@v3
+  with:
+    github_user_name: RosalineWeb
+    outputs: |
+      dist/snake.svg?color_snake=ff69b4&color_dots=ffc0cb,ff69b4,ff1493,c71585
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
